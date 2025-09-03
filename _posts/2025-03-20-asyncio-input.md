@@ -1,6 +1,8 @@
 ---
 title: "Python `asyncio` terminal-based frontend"
 excerpt: "Reading from `stdin` in an `asyncio` event loop is so hard."
+category: Programming
+tag: Python
 ---
 
 ## Introduction

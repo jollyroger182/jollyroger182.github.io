@@ -1,9 +1,9 @@
-blockquote {
-  font-style: normal;
-}
 .circle {
   border-radius: 50%;
 }
 .transparent {
   color: transparent;
+}
+figcaption {
+  font-style: italic;
 }
